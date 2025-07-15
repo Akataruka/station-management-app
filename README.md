@@ -73,9 +73,6 @@ Station Created
 
 Feel free to fork this repo and create a pull request for any improvements, bug fixes, or new features. PRs are welcome!
 
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🙋‍♂️ Author
 
